@@ -8,26 +8,26 @@ The project integrates Machine Learning, Backend API, and Frontend UI into a com
 
 **🚀 Features**
 
-🔢 Predicts house prices using a trained ML model\n
-🌐 User-friendly web interface\n
-⚙️ Backend API for model inference\n
-📊 Real-time predictions\n
+🔢 Predicts house prices using a trained ML model<br>
+🌐 User-friendly web interface<br>
+⚙️ Backend API for model inference<br>
+📊 Real-time predictions<br>
 🧠 Trained regression-based ML model
 
 **🛠️ Tech Stack**
-Frontend:  HTML  CSS  JavaScript\n
-Backend:  Python  Flask (or FastAPI)  REST API\n
-Machine Learning:  Python  NumPy  Pandas  Scikit-learn  Matplotlib / Seaborn (for analysis)\n
-Tools:  Git & GitHub  VS Code\n
+Frontend:  HTML  CSS  JavaScript<br>
+Backend:  Python  Flask (or FastAPI)  REST API<br>
+Machine Learning:  Python  NumPy  Pandas  Scikit-learn  Matplotlib / Seaborn (for analysis)<br>
+Tools:  Git & GitHub  VS Code<br>
 
 
 **⚙️ How It Works**
 
-User enters house details on the frontend\n
-Data is sent to the backend via API\n
-Backend loads the trained ML model\n
-Model predicts the house price\n
-Prediction is returned and displayed on the UI\n
+User enters house details on the frontend<br>
+Data is sent to the backend via API<br>
+Backend loads the trained ML model<br>
+Model predicts the house price<br>
+Prediction is returned and displayed on the UI<br>
 
 **Author**
 Gaurav
